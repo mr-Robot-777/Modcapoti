@@ -3,8 +3,16 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv1" />
+      <excludeFolder url="file://$MODULE_DIR$/venv2" />
+      <excludeFolder url="file://$MODULE_DIR$/h/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv3.10" />
+      <excludeFolder url="file://$MODULE_DIR$/3.10/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/ven3.10/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/ve/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/vve/venv" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (Modcapoti) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
